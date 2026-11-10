@@ -2,30 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/</loc>
-         <lastmod>2026-10-01</lastmod>
+         <lastmod>2026-11-10</lastmod>
     </url>
     <url>
          <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr1/report/</loc>
-         <lastmod>2026-10-01</lastmod>
+         <lastmod>2026-11-10</lastmod>
     </url>
     <url>
          <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr1/task1/</loc>
-         <lastmod>2026-10-01</lastmod>
+         <lastmod>2026-11-10</lastmod>
     </url>
     <url>
          <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr1/task2/</loc>
-         <lastmod>2026-10-01</lastmod>
+         <lastmod>2026-11-10</lastmod>
     </url>
     <url>
          <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr1/task3/</loc>
-         <lastmod>2026-10-01</lastmod>
+         <lastmod>2026-11-10</lastmod>
     </url>
     <url>
          <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr1/task4/</loc>
-         <lastmod>2026-10-01</lastmod>
+         <lastmod>2026-11-10</lastmod>
     </url>
     <url>
          <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr1/task5/</loc>
-         <lastmod>2026-10-01</lastmod>
+         <lastmod>2026-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr2/conclusion/</loc>
+         <lastmod>2026-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr2/implementation/</loc>
+         <lastmod>2026-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr2/model/</loc>
+         <lastmod>2026-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr2/praktiki/</loc>
+         <lastmod>2026-11-10</lastmod>
+    </url>
+    <url>
+         <loc>https://ZhurbinaMarina.github.io/ITMO_ICT_WebDevelopment_2026-2027/lr2/report/</loc>
+         <lastmod>2026-11-10</lastmod>
     </url>
 </urlset>
